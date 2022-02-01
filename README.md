@@ -1,0 +1,2 @@
+# PracticaVisual
+Ejercicio Practica Visual 
